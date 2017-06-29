@@ -1,0 +1,10 @@
+D:\Ado Net Samples\ProductApplication\ProductApplication\bin\Debug\ProductApplication.exe.config
+D:\Ado Net Samples\ProductApplication\ProductApplication\bin\Debug\ProductApplication.exe
+D:\Ado Net Samples\ProductApplication\ProductApplication\bin\Debug\ProductApplication.pdb
+D:\Ado Net Samples\ProductApplication\ProductApplication\obj\Debug\ProductApplication.csprojResolveAssemblyReference.cache
+D:\Ado Net Samples\ProductApplication\ProductApplication\obj\Debug\ProductApplication.Form1.resources
+D:\Ado Net Samples\ProductApplication\ProductApplication\obj\Debug\ProductApplication.Properties.Resources.resources
+D:\Ado Net Samples\ProductApplication\ProductApplication\obj\Debug\ProductApplication.csproj.GenerateResource.Cache
+D:\Ado Net Samples\ProductApplication\ProductApplication\obj\Debug\ProductApplication.exe
+D:\Ado Net Samples\ProductApplication\ProductApplication\obj\Debug\ProductApplication.pdb
+D:\Ado Net Samples\ProductApplication\ProductApplication\obj\Debug\ProductApplication.ProductSummary.resources
